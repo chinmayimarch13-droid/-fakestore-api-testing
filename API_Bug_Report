@@ -1,0 +1,13 @@
+BUG01
+
+Title:
+API accepts invalid product ID without proper error
+
+Severity:
+Medium
+
+Priority:
+High
+
+Status:
+Open
