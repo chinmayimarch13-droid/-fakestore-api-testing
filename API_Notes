@@ -1,0 +1,12 @@
+GET -> Retrieve data
+POST -> Send/Create data
+PUT -> Update data
+DELETE -> Delete data
+
+Status Codes:
+200 -> Success
+201 -> Created
+400 -> Bad Request
+401 -> Unauthorized
+404 -> Not Found
+500 -> Server Error
